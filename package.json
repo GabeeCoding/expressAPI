@@ -1,0 +1,22 @@
+{
+  "name": "expressachievementapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeeCoding/expressAPI.git"
+  },
+  "author": "Gabes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabeeCoding/expressAPI/issues"
+  },
+  "homepage": "https://github.com/GabeeCoding/expressAPI#readme",
+  "dependencies": {
+    "@types/node": "^13.7.1"
+  }
+}
